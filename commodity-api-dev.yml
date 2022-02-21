@@ -4,3 +4,4 @@ server:
 spring:
     application:
         name: commodity-api
+env: dev
