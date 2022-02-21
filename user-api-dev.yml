@@ -5,4 +5,4 @@ spring:
     application:
         name: user-api
         
-test123=aaddfd
+env: dev
