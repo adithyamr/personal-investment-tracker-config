@@ -1,2 +1,2 @@
-# personal-investment-tracker-config
-personal-investment-tracker-config
+# config-server
+Configurations for various apis which are part of personal-investment-tracker
