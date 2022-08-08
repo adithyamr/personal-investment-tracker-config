@@ -3,6 +3,11 @@ server:
 
 spring:
     application:
-        name: stock-api
+      name: stock-api
+    data:
+      mongodb:
+        username: stock
+        password: Stock@123
+        uri: mongodb://localhost:27017/stock
         
 env: dev
